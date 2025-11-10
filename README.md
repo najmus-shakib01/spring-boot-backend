@@ -30,5 +30,5 @@ A robust Spring Boot REST API for managing employees with full CRUD operations. 
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/najmus-shakib01/spring-boot-backend.git
 cd FIRSTSPRINGBOOT
